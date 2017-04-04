@@ -4,3 +4,5 @@
     [2] mv package to  $PYTHON_INSTALL_DIR/Scripts/;
     [3] Add $PYTHON_INSTALL_DIR/Scripts to WINDOWS PATH;
     [4] Open terminal,Execute CMD:pip3.4 install $PYTHON_INSTALL_DIR/Scipts/*package_name*.whl
+ @2017/04/04:
+   Add logging_dev branch 
